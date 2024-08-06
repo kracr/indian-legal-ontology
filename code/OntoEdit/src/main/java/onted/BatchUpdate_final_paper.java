@@ -155,7 +155,7 @@ public class BatchUpdate_final_paper {
 		ArrayList<String> courtForumJurisdictionTypes = myOnt.addIndividuals("http://lmss.sali.org/R9sbuHkJC9aqDlHAgw58VSB", myOnt.entitiesFromFile("Jurisdictions.txt", "", ""));
 		
 		String summaryCourtTrial = myOnt.addSubClass("http://lmss.sali.org/RpNOHS1FAVVJkNXIN6L6y7", "Summary Court Trial");
-		myOnt.assertObjectPropertyAxiom("http://lmss.sali.org/RBSewRxgjTh2VhFX6itIoFA", summaryCourtTrial, "http://www.w3.org/2000/01/rdf-schema#seeAlso");
+		myOnt.assertSomeValuesFromAxiom("http://lmss.sali.org/RBSewRxgjTh2VhFX6itIoFA", summaryCourtTrial, "http://www.w3.org/2000/01/rdf-schema#seeAlso");
 		
 		// Updating forums and venues
 		
@@ -168,10 +168,10 @@ public class BatchUpdate_final_paper {
 		String districtCourt = myOnt.addSubClass(indianCourt, "District Court");
 		String precededBy = myOnt.addNewObjectPropertyWithDR("precededBy", "http://lmss.sali.org/RBjHwNNG2ASVmasLFU42otk", "http://lmss.sali.org/RBjHwNNG2ASVmasLFU42otk");
 		String hasPrecedenceOver = myOnt.addNewObjectPropertyWithDR("hasPrecedenceOver", "http://lmss.sali.org/RBjHwNNG2ASVmasLFU42otk", "http://lmss.sali.org/RBjHwNNG2ASVmasLFU42otk");
-		myOnt.assertObjectPropertyAxiom(highCourt, supremeCourt, precededBy);
-		myOnt.assertObjectPropertyAxiom(districtCourt, highCourt, precededBy);
-		myOnt.assertObjectPropertyAxiom(supremeCourt, highCourt, hasPrecedenceOver);
-		myOnt.assertObjectPropertyAxiom(highCourt, districtCourt, hasPrecedenceOver);
+		myOnt.assertSomeValuesFromAxiom(highCourt, supremeCourt, precededBy);
+		myOnt.assertSomeValuesFromAxiom(districtCourt, highCourt, precededBy);
+		myOnt.assertSomeValuesFromAxiom(supremeCourt, highCourt, hasPrecedenceOver);
+		myOnt.assertSomeValuesFromAxiom(highCourt, districtCourt, hasPrecedenceOver);
 		ArrayList<String> highCourtsList = myOnt.addIndividuals(highCourt, myOnt.entitiesFromFile("HC.txt", "", ""));
 		BatchUpdate_final.splitFile("", "city-state_pairs.txt", ",");
 		ArrayList<String> hc_cities = myOnt.entitiesFromFile("1_city-state_pairs.txt", "", "");
@@ -183,15 +183,16 @@ public class BatchUpdate_final_paper {
 		// Creating region classes for India
 		
 		String geoRegion = myOnt.addSubClass("http://www.w3.org/2002/07/owl#Thing", "Geographical Region");
-		myOnt.assertObjectPropertyAxiom("http://lmss.sali.org/R9v17ZYsnDkNSEZkvD36nhT", "http://lmss.sali.org/d3a15d62-1772-4c67-8531-cfb91393b2b041f02855-1617-4a29-b696-e062c25f1e69", "http://www.geonames.org/ontology#locatedIn");
+//		myOnt.assertObjectPropertyAxiom("http://lmss.sali.org/R9v17ZYsnDkNSEZkvD36nhT", "http://lmss.sali.org/d3a15d62-1772-4c67-8531-cfb91393b2b041f02855-1617-4a29-b696-e062c25f1e69", "http://www.geonames.org/ontology#locatedIn");
+		myOnt.assertSomeValuesFromAxiom("http://lmss.sali.org/R9v17ZYsnDkNSEZkvD36nhT", geoRegion, "http://www.geonames.org/ontology#locatedIn");
 		myOnt.setType(geoRegion, "http://www.geonames.org/ontology#Feature");
 		String country = myOnt.addSubClass(geoRegion, "Country");
 		String state = myOnt.addSubClass(geoRegion, "State and Union Territory");
 		String district = myOnt.addSubClass(geoRegion, "District");
 		String city = myOnt.addSubClass(geoRegion, "City");
-		myOnt.assertObjectPropertyAxiom(country, state, "http://schema.org/containsPlace");
-		myOnt.assertObjectPropertyAxiom(state, district, "http://schema.org/containsPlace");
-//		myOnt.assertObjectPropertyAxiom(state, city, "http://schema.org/containsPlace");
+		myOnt.assertSomeValuesFromAxiom(country, state, "http://schema.org/containsPlace");
+		myOnt.assertSomeValuesFromAxiom(state, district, "http://schema.org/containsPlace");
+//		myOnt.assertSomeValuesFromAxiom(state, city, "http://schema.org/containsPlace");
 		String countryIRI = GeoNamesHandler.getGeoIRI("1269750");
 
 		// Creating and linking high courts and asserting location data and types
@@ -267,6 +268,7 @@ public class BatchUpdate_final_paper {
 				myOnt.assertObjectPropertyAxiom(stateUTIRI, districtIRI, "http://schema.org/containsPlace");
 	    		System.out.println(BatchUpdate_final.getCleanString(inner.get(geonameId_inner), "district") + " " + geonameId_inner);
 	    		myOnt.assertObjectPropertyAxiom(myDistrictCourt, stateHC.get(geonameId), precededBy);
+	    		myOnt.assertObjectPropertyAxiom(stateHC.get(geonameId), myDistrictCourt, hasPrecedenceOver);
 			}
 			myOnt.labelEntity(stateUTIRI, stateUT.get(geonameId), false);
 			//myOnt.addIndividualByIRI(stateUTIRI, stateUT.get(geonameId));

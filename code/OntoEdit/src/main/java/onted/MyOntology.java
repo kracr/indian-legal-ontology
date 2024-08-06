@@ -307,6 +307,18 @@ public class MyOntology {
         addNewAxiom(axiom);
     }
 
+    public void assertHasValueAxiom(String classIRIString, String individualIRIString, String propertyIRIString) {
+        OWLClass owlClass = factory.getOWLClass(IRI.create(classIRIString));
+        OWLNamedIndividual individual = factory.getOWLNamedIndividual(IRI.create(individualIRIString));
+        OWLObjectProperty property = factory.getOWLObjectProperty(IRI.create(propertyIRIString));
+
+        // Creating a HasValue restriction: class SubClassOf property value individual
+        OWLObjectHasValue hasValueRestriction = factory.getOWLObjectHasValue(property, individual);
+        OWLSubClassOfAxiom axiom = factory.getOWLSubClassOfAxiom(owlClass, hasValueRestriction);
+        addNewAxiom(axiom);
+    }
+
+    
     public void assertDataPropertyAxiom(String subjectIRIString, OWLLiteral myLiteral, String propertyIRIString) {
     	// Asserts the axiom stating every instance of the given class is related via specified data property to the provided literal 
         OWLClass owlClass = factory.getOWLClass(IRI.create(subjectIRIString));
