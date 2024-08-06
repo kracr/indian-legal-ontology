@@ -1,0 +1,12 @@
+List all high courts
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex: <http://lmss.sali.org/>
+
+SELECT DISTINCT ?label
+WHERE {
+  ?entity rdf:type ?type .
+  ?type rdfs:label "High Court" .
+  ?entity rdfs:label ?label .
+}
