@@ -1,0 +1,9 @@
+Rule of Presumption 
+
+Dishonour Presumption on Proof of Protest - This concept involves the presumption of the fact of dishonor in a suit upon an instrument that has been dishonored, when the protest (a formal declaration made by the notary public) is proven. The court assumes the dishonor occurred unless disproven.
+
+Estoppel on Validity Denial: This concept prohibits the maker of a promissory note, drawer of a bill of exchange or cheque, and acceptor of a bill of exchange from denying the original validity of the instrument in a suit by a holder in due course.
+
+Estoppel on Denying Payee’s Capacity to Endorse: This concept prevents the maker of a promissory note and the acceptor of a bill of exchange payable to order from denying the payee's capacity to endorse the instrument in a suit by a holder in due course.
+
+Estoppel against denying signature or capacity of prior party: No indoreser of a negotiable instrument is permitted to deny signature made to the instrument.

@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>OntEdit</groupId>
+	<artifactId>ontedit</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>OntologyEditor</name>
+	<dependencies>
+		<dependency>
+			<groupId>net.sourceforge.owlapi</groupId>
+			<artifactId>owlapi-distribution</artifactId>
+			<version>5.1.16</version>
+		</dependency>
+		<!-- Apache HttpClient for making HTTP requests -->
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.5.13</version>
+		</dependency>
+		<!-- GSON for JSON processing -->
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.8.8</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.12.0</version>
+		</dependency>
+		<!--		<dependency>
+			<groupId>com.github.galigator.openllet</groupId>
+			<artifactId>openllet-owlapi</artifactId>
+			<version>2.6.4</version>   Replace with the latest version 
+		</dependency>-->
+		<!--		<dependency>
+			<groupId>net.sourceforge.owlapi</groupId>
+			<artifactId>owlapi-api</artifactId>
+			<version>5.5.0</version>
+		</dependency>-->
+		<!--		<dependency>
+			<groupId>net.sourceforge.owlapi</groupId>
+			<artifactId>owlapi-distribution</artifactId>
+			<version>5.1.16</version>
+		</dependency>-->
+		<!--
+		https://mvnrepository.com/artifact/com.hermit-reasoner/org.semanticweb.hermit -->
+	</dependencies>
+</project>

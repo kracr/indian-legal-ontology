@@ -1,0 +1,16 @@
+Court
+Petitioner
+Respondent
+JudgmentDate
+AssessYear
+JudgeName
+Bench
+ComparativeCitations
+LegislationsReferred
+CasesReferred
+CaseNo.
+Lawyers
+JudgmentText
+Result
+EditorsNote
+Laws

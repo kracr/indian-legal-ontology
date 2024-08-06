@@ -1,0 +1,7 @@
+Check Transaction Bounced 	
+Check Transaction Successful
+Check Returned
+Check Hold
+Check Cancelled
+Check Lost
+Check Expired

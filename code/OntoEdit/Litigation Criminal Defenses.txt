@@ -1,0 +1,21 @@
+Partial Repayment - Part repayment of the amount was already made 
+Firm Exclusion - Firm was not made an accused. 
+Vicarious Liability - Statement to establish the vicarious liability. 
+No Demand Notice - Demand notice had not been issued to the firm
+Personal Loan Defense - Loan had not been obtained by accused in their individual capacity. 
+Premature Filing - Complaint filed before the expiry of the period of 15 days stipulated in the notice 
+Time-Barred Complaint - One month period stipulated under Section 142(b) for the filing of complaint has expired
+Disputed Authorship - Authorship on the questioned writings on the disputed cheque 
+Order Quash Defense - Quashing of the summoning order
+ Cheque as Security - The cheque was given as security and not for discharge of any debt or liability.
+Friendly Loan - The cheque was issued for a friendly loan of unaccounted money.
+Forged Signature - The signature on the cheque is forged or disputed by the accused.
+Valid Payment Stop - The drawer instructed the bank to stop payment for some valid reason other than insufficient funds.
+Omnibus Claim Issue - Notice issued by the appellant is an omnibus notice since it does not represent a legally enforceable debt. 
+Amount Discrepancy - Legal notice was not issued in accordance with proviso (b) to Section 138 since it did not represent the “correct amount”.
+Cheque Overpayment - The sum in the cheque is higher than the amount that was due to the appellant. 
+Notice Invalidity - Statutory notice issued under Section 138 is not valid. 
+Part-Payment Ignored - It is an omnibus notice since it did not recognise the part-payment that was made. 
+Specific Partner Liability - Liability under the NI Act is only upon the partners who are responsible for the firm for conduct of its business. 
+Capacity Challenge - Prosecution of the applicants in personal capacity, was not maintainable.
+Notice Period Lapse -Period of 15 days has expired from the date on which notice has been served on the drawer/accused.

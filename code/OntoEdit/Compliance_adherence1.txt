@@ -1,0 +1,8 @@
+Form Based Compliances
+Event Based Compliances
+Checklist Based Compliances
+Dependency Based Compliances
+Act Based Compliances
+Regulator Based Compliances
+Context-driven compliance
+Date based compliance

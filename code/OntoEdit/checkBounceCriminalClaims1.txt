@@ -1,0 +1,18 @@
+Claim for Dishonor of Check
+Claim for Payment of Promissory Note
+Claim for Payment of Bill of Exchange
+Claim for Recovery of Amount Due under Hundi
+Claim for Damages due to Dishonor
+Claim for Interest on Overdue Payment
+Claim for Legal Costs and Expenses
+Claim for Wrongful Dishonor
+Claim for Fraudulent Alteration of Instrument
+Claim for Conversion of Instrument
+Claim for Breach of Warranty
+Claim for Compensation for Condition Not Met
+Claim for Recovery of Consideration
+Claim for Indemnity
+Claim for Injunction
+Claim for Cancellation
+Claim for Declaration of Rights
+Claim for Declaration of Liability

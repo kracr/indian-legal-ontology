@@ -1,0 +1,18 @@
+Payee can claim amount of dishonored check along with penalty and legal costs.
+Holder can claim the amount specified in promissory note along with interest and legal costs if it's dishonored.
+Holder can claim amount specified in bill along with interest and legal costs if it's dishonored.
+Claim for the amount due under a dishonored hundi.
+Holder can claim damages for any loss suffered due to dishonor.
+Holder can claim interest on the overdue amount.
+Holder can claim reasonable legal costs and expenses.
+Claim for damages if a negotiable instrument is wrongfully dishonored.
+Claim for damages due to fraudulent alteration of the instrument.
+Claim for damages if the instrument is wrongfully converted.
+Claim for damages due to breach of warranty during negotiation.
+Claim for compensation if a condition under which the instrument is drawn is not fulfilled.
+Claim for recovery of consideration paid against a dishonored instrument.
+Claim for indemnity against loss due to dishonor.
+Claim for injunction to prevent negotiation of the instrument.
+Claim for cancellation of the instrument.
+Claim for declaration of rights under the instrument.
+Claim for declaration of liability under the instrument.

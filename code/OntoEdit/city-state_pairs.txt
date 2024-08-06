@@ -1,0 +1,25 @@
+Prayagraj, Uttar Pradesh
+Amaravati, Andhra Pradesh
+Mumbai, Maharashtra
+Kolkata, West Bengal
+Bilaspur, Chhattisgarh
+Delhi, Delhi
+Guwahati, Assam
+Ahmedabad, Gujarat
+Shimla, Himachal Pradesh
+Imphal, Manipur
+Srinagar, Jammu and Kashmir
+Ranchi, Jharkhand
+Bengaluru, Karnataka
+Kochi, Kerala
+Jabalpur, Madhya Pradesh
+Chennai, Tamil Nadu
+Shillong, Meghalaya
+Cuttack, Odisha
+Patna, Bihar
+Chandigarh, Chandigarh
+Jodhpur, Rajasthan
+Gangtok, Sikkim
+Agartala, Tripura
+Nainital, Uttarakhand
+Hyderabad, Telangana

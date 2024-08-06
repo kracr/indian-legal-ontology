@@ -1,0 +1,7 @@
+Consideration Presumption: Assumes that all negotiable instruments are created for a valid consideration.
+Date Presumption: Assumes that the date on a negotiable instrument is the actual date of its creation or drawing.
+Acceptance Timing Presumption: Assumes that acceptance of a bill of exchange occurred within a reasonable timeframe and before its maturity.
+Transfer Timing Presumption: Assumes that the transfer of a negotiable instrument occurred before its maturity.
+Endorsement Order Presumption: Assumes that endorsements on a negotiable instrument were made in the order they appear.
+Stamp Duty Compliance Presumption: Assumes that a lost negotiable instrument was duly stamped as per legal requirements.
+Holder in Due Course Presumption: Assumes that the holder of a negotiable instrument is a holder in due course, subject to exceptions in cases of fraud or illegality.

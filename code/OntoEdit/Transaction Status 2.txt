@@ -1,0 +1,2 @@
+Transaction completed successfully.
+Transaction failed due to check bounce.
