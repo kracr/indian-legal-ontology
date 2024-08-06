@@ -1,0 +1,36 @@
+Andaman and Nicobar | http://sws.geonames.org/1278647/
+Andhra Pradesh | http://sws.geonames.org/1278629/
+Arunachal Pradesh | http://sws.geonames.org/1278341/
+Assam | http://sws.geonames.org/1278253/
+Bihar | http://sws.geonames.org/1275715/
+Chandigarh | http://sws.geonames.org/1274744/
+Chhattisgarh | http://sws.geonames.org/1444364/
+Dadra and Nagar Haveli and Daman and Diu | http://sws.geonames.org/12165662/
+Delhi | http://sws.geonames.org/1273293/
+Goa | http://sws.geonames.org/1271157/
+Gujarat | http://sws.geonames.org/1270770/
+Haryana | http://sws.geonames.org/1270260/
+Himachal Pradesh | http://sws.geonames.org/1270101/
+Jammu and Kashmir | http://sws.geonames.org/1269320/
+Jharkhand | http://sws.geonames.org/1444365/
+Karnataka | http://sws.geonames.org/1267701/
+Kerala | http://sws.geonames.org/1267254/
+Ladakh | http://sws.geonames.org/12096464/
+Lakshadweep | http://sws.geonames.org/1265206/
+Madhya Pradesh | http://sws.geonames.org/1264542/
+Maharashtra | http://sws.geonames.org/1264418/
+Manipur | http://sws.geonames.org/1263706/
+Meghalaya | http://sws.geonames.org/1263207/
+Mizoram | http://sws.geonames.org/1262963/
+Nagaland | http://sws.geonames.org/1262271/
+Odisha | http://sws.geonames.org/1261029/
+Puducherry | http://sws.geonames.org/1259424/
+Punjab | http://sws.geonames.org/1259223/
+Rajasthan | http://sws.geonames.org/1258899/
+Sikkim | http://sws.geonames.org/1256312/
+Tamil Nadu | http://sws.geonames.org/1255053/
+Telangana | http://sws.geonames.org/1254788/
+Tripura | http://sws.geonames.org/1254169/
+Uttar Pradesh | http://sws.geonames.org/1253626/
+Uttarakhand | http://sws.geonames.org/1444366/
+West Bengal | http://sws.geonames.org/1252881/

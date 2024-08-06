@@ -1,0 +1,13 @@
+Anantapur District | http://sws.geonames.org/1278673/
+Chittoor | http://sws.geonames.org/1274034/
+East Godavari District | http://sws.geonames.org/1272123/
+Guntūr District | http://sws.geonames.org/1270669/
+Kadapa District | http://sws.geonames.org/1273801/
+Krishna | http://sws.geonames.org/1265869/
+Kurnool district | http://sws.geonames.org/1265492/
+Prakasam | http://sws.geonames.org/1259346/
+Spsr Nellore | http://sws.geonames.org/1261530/
+Srikakulam | http://sws.geonames.org/1255649/
+Visakhapatnam District | http://sws.geonames.org/1253103/
+Vizianagaram | http://sws.geonames.org/7626859/
+West Godāvari District | http://sws.geonames.org/1252873/

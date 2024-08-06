@@ -1,0 +1,16 @@
+Bishnupur District | http://sws.geonames.org/8740329/
+Chandel District | http://sws.geonames.org/9747955/
+Churachandpur | http://sws.geonames.org/9166020/
+Imphal East | http://sws.geonames.org/9747976/
+Imphal West | http://sws.geonames.org/9747977/
+Jiribam | http://sws.geonames.org/11875583/
+Kakching | http://sws.geonames.org/11875586/
+Kamjong District | http://sws.geonames.org/11875587/
+Kangpokpi District | http://sws.geonames.org/11875584/
+Noney | http://sws.geonames.org/11875585/
+Pherzawl | http://sws.geonames.org/11875590/
+Senapati | http://sws.geonames.org/8740334/
+Tamenglong | http://sws.geonames.org/8740332/
+Tengnoupal District | http://sws.geonames.org/11875595/
+Thoubal District | http://sws.geonames.org/8740335/
+Ukhrul | http://sws.geonames.org/8740338/

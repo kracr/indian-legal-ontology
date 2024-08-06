@@ -1,0 +1,22 @@
+Amritsar | http://sws.geonames.org/1278711/
+Barnala | http://sws.geonames.org/8407165/
+Bathinda | http://sws.geonames.org/1276071/
+Faridkot | http://sws.geonames.org/1271950/
+Fatehgarh Sahib | http://sws.geonames.org/7909874/
+Fazilka | http://sws.geonames.org/8407166/
+Firozpur | http://sws.geonames.org/1271884/
+Gurdaspur district | http://sws.geonames.org/1270648/
+Hoshiarpur | http://sws.geonames.org/1269938/
+Jalandhar district | http://sws.geonames.org/1268783/
+Kapurthala district | http://sws.geonames.org/1267912/
+Ludhiana | http://sws.geonames.org/1264729/
+Mansa | http://sws.geonames.org/8407027/
+Moga district | http://sws.geonames.org/8407028/
+Pathankot District | http://sws.geonames.org/8408318/
+Patiala district | http://sws.geonames.org/1260108/
+Rupnagar | http://sws.geonames.org/1257953/
+S.A.S Nagar | http://sws.geonames.org/8407426/
+Sangrur | http://sws.geonames.org/1257403/
+Shahid Bhagat Singh Nagar | http://sws.geonames.org/8407479/
+Sri Muktsar Sahib | http://sws.geonames.org/7909875/
+Tarn Taran | http://sws.geonames.org/8408319/

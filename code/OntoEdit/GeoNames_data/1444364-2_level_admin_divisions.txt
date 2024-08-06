@@ -1,0 +1,27 @@
+Balod District | http://sws.geonames.org/11875519/
+Baloda Bazar | http://sws.geonames.org/11875518/
+Balrampur | http://sws.geonames.org/11875517/
+Bastar | http://sws.geonames.org/1276739/
+Bemetara | http://sws.geonames.org/11875521/
+Bijapur | http://sws.geonames.org/9747942/
+Bilaspur | http://sws.geonames.org/1275639/
+Dantewada | http://sws.geonames.org/9747953/
+Dhamtari | http://sws.geonames.org/7627170/
+Durg district | http://sws.geonames.org/1272182/
+Gariaband district | http://sws.geonames.org/11875522/
+Janjgir-Champa | http://sws.geonames.org/7627225/
+Jashpur | http://sws.geonames.org/7701599/
+Kabirdham | http://sws.geonames.org/7627230/
+Kanker | http://sws.geonames.org/7627172/
+Kondagaon | http://sws.geonames.org/11875520/
+Korba | http://sws.geonames.org/7627169/
+Koriya district | http://sws.geonames.org/7701598/
+Mahasamund | http://sws.geonames.org/7627236/
+Mungeli | http://sws.geonames.org/11875523/
+Narayanpur | http://sws.geonames.org/9748023/
+Raigarh | http://sws.geonames.org/1259006/
+Raipur | http://sws.geonames.org/1258984/
+Rajnandgaon | http://sws.geonames.org/1258832/
+Sukma | http://sws.geonames.org/11875524/
+Surajpur District | http://sws.geonames.org/11875516/
+Surguja district | http://sws.geonames.org/1255347/

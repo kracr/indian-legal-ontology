@@ -1,0 +1,14 @@
+Alleppey District | http://sws.geonames.org/1278986/
+Ernakulam District | http://sws.geonames.org/1272019/
+Idukki | http://sws.geonames.org/1269812/
+Kannur | http://sws.geonames.org/1274988/
+Kasargod District | http://sws.geonames.org/8347665/
+Kollam | http://sws.geonames.org/7909821/
+Kottayam | http://sws.geonames.org/1265912/
+Kozhikode | http://sws.geonames.org/1265874/
+Malappuram | http://sws.geonames.org/1264155/
+Palakkad | http://sws.geonames.org/7289568/
+Pathanamthitta | http://sws.geonames.org/7874372/
+Thiruvananthapuram | http://sws.geonames.org/7909823/
+Thrissur | http://sws.geonames.org/8133543/
+Wayanad | http://sws.geonames.org/6951502/

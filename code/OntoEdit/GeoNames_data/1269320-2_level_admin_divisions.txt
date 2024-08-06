@@ -1,0 +1,20 @@
+Anantnag | http://sws.geonames.org/1278668/
+Badgam | http://sws.geonames.org/9747938/
+Bandipora District | http://sws.geonames.org/9747936/
+Baramulla | http://sws.geonames.org/1277086/
+Doda District | http://sws.geonames.org/9747931/
+Ganderbal | http://sws.geonames.org/9748040/
+Jammu district | http://sws.geonames.org/1269322/
+Kathua | http://sws.geonames.org/1267487/
+Kishtwar district | http://sws.geonames.org/9747940/
+Kulgam | http://sws.geonames.org/9747963/
+Kupwara District | http://sws.geonames.org/9748042/
+Poonch District | http://sws.geonames.org/9747990/
+Pulwama | http://sws.geonames.org/9747988/
+Rajouri District | http://sws.geonames.org/1258892/
+Ramban | http://sws.geonames.org/9747994/
+Reasi | http://sws.geonames.org/9747996/
+Samba District | http://sws.geonames.org/9747965/
+Shopian District | http://sws.geonames.org/9748009/
+Srinagar | http://sws.geonames.org/1255639/
+Udhampur | http://sws.geonames.org/1253957/

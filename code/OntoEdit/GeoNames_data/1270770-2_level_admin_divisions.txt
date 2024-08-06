@@ -1,0 +1,33 @@
+Ahmadābād District | http://sws.geonames.org/1279234/
+Amreli district | http://sws.geonames.org/1278716/
+Anand DIstrict | http://sws.geonames.org/7627221/
+Arvalli | http://sws.geonames.org/11875529/
+Banaskantha district | http://sws.geonames.org/1277417/
+Bharuch | http://sws.geonames.org/1276101/
+Bhavnagar | http://sws.geonames.org/1276033/
+Botad | http://sws.geonames.org/11875532/
+Bulsar District | http://sws.geonames.org/1253469/
+Chhotaudepur | http://sws.geonames.org/11875533/
+Dang | http://sws.geonames.org/1254616/
+Devbhumi Dwarka | http://sws.geonames.org/11875527/
+Dohad | http://sws.geonames.org/7627226/
+Gir Somnath | http://sws.geonames.org/11875531/
+Gāndhīnagar District | http://sws.geonames.org/1271716/
+Jamnagar district | http://sws.geonames.org/1269318/
+Jūnāgadh District | http://sws.geonames.org/1268774/
+Kheda district | http://sws.geonames.org/1266810/
+Kutch | http://sws.geonames.org/1268731/
+Mahisagar | http://sws.geonames.org/11875528/
+Mehsāna District | http://sws.geonames.org/1264390/
+Morbi | http://sws.geonames.org/11875530/
+Narmada | http://sws.geonames.org/9165869/
+Navsari | http://sws.geonames.org/9072825/
+Panch Mahals District | http://sws.geonames.org/1260571/
+Patan | http://sws.geonames.org/7627238/
+Porbandar | http://sws.geonames.org/9072780/
+Rajkot | http://sws.geonames.org/1258849/
+Sabar Kantha | http://sws.geonames.org/1257922/
+Surat District | http://sws.geonames.org/1255365/
+Surendranagar | http://sws.geonames.org/1255350/
+Tapi | http://sws.geonames.org/9072813/
+Vadodara | http://sws.geonames.org/1253574/

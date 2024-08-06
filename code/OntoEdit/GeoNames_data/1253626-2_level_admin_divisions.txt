@@ -1,0 +1,75 @@
+Agra | http://sws.geonames.org/1279262/
+Alīgarh District | http://sws.geonames.org/1279020/
+Ambedkar Nagar | http://sws.geonames.org/7729743/
+Amethi | http://sws.geonames.org/11875567/
+Amroha district | http://sws.geonames.org/9072783/
+Auraiya | http://sws.geonames.org/7729744/
+Azamgarh District | http://sws.geonames.org/1278084/
+Baghpat | http://sws.geonames.org/9072781/
+Bahraich district | http://sws.geonames.org/1277800/
+Ballia | http://sws.geonames.org/1277553/
+Balrampur | http://sws.geonames.org/7729745/
+Banda | http://sws.geonames.org/1277400/
+Barabanki | http://sws.geonames.org/1277159/
+Bareilly | http://sws.geonames.org/1277014/
+Basti | http://sws.geonames.org/1276737/
+Bhadohi district | http://sws.geonames.org/7729751/
+Bijnor | http://sws.geonames.org/1275680/
+Budaun | http://sws.geonames.org/1275164/
+Bulandshahr district | http://sws.geonames.org/1275121/
+Chandauli | http://sws.geonames.org/9072811/
+Chitrakoot | http://sws.geonames.org/9072788/
+Deoria | http://sws.geonames.org/1273196/
+Etah | http://sws.geonames.org/1271993/
+Etawah | http://sws.geonames.org/1271989/
+Faizabad | http://sws.geonames.org/1271977/
+Farrukhābād District | http://sws.geonames.org/1271943/
+Fatehpur | http://sws.geonames.org/1271920/
+Firozabad | http://sws.geonames.org/7874389/
+Gautam Buddha Nagar | http://sws.geonames.org/9072784/
+Ghaziabad | http://sws.geonames.org/1271310/
+Ghazipur | http://sws.geonames.org/1271307/
+Gonda | http://sws.geonames.org/1270997/
+Gorakhpur District | http://sws.geonames.org/1270930/
+Hamirpur | http://sws.geonames.org/1270457/
+Hapur | http://sws.geonames.org/11875568/
+Hardoi | http://sws.geonames.org/1270371/
+Hathras | http://sws.geonames.org/9747974/
+Jalaun | http://sws.geonames.org/1269423/
+Jaunpur | http://sws.geonames.org/1269136/
+Jhānsi District | http://sws.geonames.org/1269007/
+Kannauj | http://sws.geonames.org/7902634/
+Kanpur Dehat district | http://sws.geonames.org/7729747/
+Kanpur Nagar | http://sws.geonames.org/1267997/
+Kasganj District | http://sws.geonames.org/9747992/
+Kaushambi District | http://sws.geonames.org/9072745/
+Kheri | http://sws.geonames.org/1266768/
+Kushi Nagar | http://sws.geonames.org/7626229/
+Lalitpur | http://sws.geonames.org/1265158/
+Lucknow | http://sws.geonames.org/1264734/
+Maharajganj | http://sws.geonames.org/7729749/
+Mahoba Quarter | http://sws.geonames.org/9072787/
+Mainpuri district | http://sws.geonames.org/1264293/
+Mathura | http://sws.geonames.org/1263366/
+Mau | http://sws.geonames.org/7729750/
+Meerut | http://sws.geonames.org/1263215/
+Mirzapur | http://sws.geonames.org/1262997/
+Moradabad | http://sws.geonames.org/1262802/
+Muzaffarnagar district | http://sws.geonames.org/1262333/
+Pilibhit | http://sws.geonames.org/1259687/
+Pratapgarh | http://sws.geonames.org/1259339/
+Prayagraj | http://sws.geonames.org/1278995/
+Rae Bareli | http://sws.geonames.org/1259065/
+Rampur | http://sws.geonames.org/1258622/
+Sahāranpur District | http://sws.geonames.org/1257807/
+Sambhal | http://sws.geonames.org/11875569/
+Sant Kabeer Nagar | http://sws.geonames.org/9748030/
+Shamli | http://sws.geonames.org/11875566/
+Shravasti | http://sws.geonames.org/7626227/
+Shāhjahānpur District | http://sws.geonames.org/1256729/
+Siddharth Nagar | http://sws.geonames.org/7626228/
+Sitapur | http://sws.geonames.org/1255971/
+Sonbhadra | http://sws.geonames.org/9748013/
+Sultanpur | http://sws.geonames.org/1255497/
+Unao District | http://sws.geonames.org/1253748/
+Varanasi | http://sws.geonames.org/1253407/

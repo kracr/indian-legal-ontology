@@ -1,0 +1,13 @@
+Almora | http://sws.geonames.org/1278975/
+Bageshwar | http://sws.geonames.org/7701513/
+Chamoli | http://sws.geonames.org/1274839/
+Champawat | http://sws.geonames.org/7701515/
+Dehradun | http://sws.geonames.org/9072830/
+Garhwāl District | http://sws.geonames.org/1271535/
+Haridwar | http://sws.geonames.org/8740057/
+Nainital | http://sws.geonames.org/1262118/
+Pithoragarh | http://sws.geonames.org/1259504/
+Rudra Prayag | http://sws.geonames.org/8739870/
+Tehri Garhwal | http://sws.geonames.org/1254807/
+Udam Singh Nagar | http://sws.geonames.org/7701516/
+Uttar Kashi | http://sws.geonames.org/1253629/

@@ -1,0 +1,11 @@
+Central | http://sws.geonames.org/8335421/
+East | http://sws.geonames.org/8335424/
+New Delhi | http://sws.geonames.org/8347332/
+North | http://sws.geonames.org/8335422/
+North East | http://sws.geonames.org/8335425/
+North West Delhi | http://sws.geonames.org/8335427/
+Shahdara | http://sws.geonames.org/11875526/
+South Delhi | http://sws.geonames.org/8335423/
+South East | http://sws.geonames.org/11875525/
+South West | http://sws.geonames.org/8335426/
+West | http://sws.geonames.org/8335458/

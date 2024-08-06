@@ -1,0 +1,25 @@
+Anjaw | http://sws.geonames.org/9747950/
+Changlang | http://sws.geonames.org/9747946/
+Dibang Valley District | http://sws.geonames.org/1272651/
+East Kameng | http://sws.geonames.org/1272120/
+East Siang District | http://sws.geonames.org/1272115/
+Kamle | http://sws.geonames.org/12572553/
+Kra Daadi | http://sws.geonames.org/11875510/
+Kurung Kumey District | http://sws.geonames.org/9748007/
+Lepa Rada | http://sws.geonames.org/12572554/
+Lohit | http://sws.geonames.org/1264818/
+Longding District | http://sws.geonames.org/11875575/
+Lower Dibang Valley District | http://sws.geonames.org/9748012/
+Lower Siang | http://sws.geonames.org/11902898/
+Lower Subansiri | http://sws.geonames.org/1264739/
+Namsai District | http://sws.geonames.org/11875509/
+Pakke Kessang | http://sws.geonames.org/12572547/
+Papum Pare | http://sws.geonames.org/9748025/
+Shi Yomi | http://sws.geonames.org/12572546/
+Siang | http://sws.geonames.org/11875511/
+Tawang | http://sws.geonames.org/9748034/
+Tirap | http://sws.geonames.org/1254418/
+Upper Siang | http://sws.geonames.org/9748035/
+Upper Subansiri | http://sws.geonames.org/1253720/
+West Kameng | http://sws.geonames.org/1252869/
+West Siang district | http://sws.geonames.org/1252865/

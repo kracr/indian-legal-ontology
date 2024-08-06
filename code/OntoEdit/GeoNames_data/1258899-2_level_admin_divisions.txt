@@ -1,0 +1,33 @@
+Ajmer district | http://sws.geonames.org/1279160/
+Alwar | http://sws.geonames.org/1278947/
+Banswara | http://sws.geonames.org/1277215/
+Baran | http://sws.geonames.org/7701212/
+Bharatpur | http://sws.geonames.org/1276130/
+Bhīlwāra District | http://sws.geonames.org/1275961/
+Bikaner | http://sws.geonames.org/1275666/
+Bundi District | http://sws.geonames.org/1275104/
+Bārmer District | http://sws.geonames.org/1276902/
+Chittorgarh | http://sws.geonames.org/1274041/
+Churu | http://sws.geonames.org/1273894/
+Dausa | http://sws.geonames.org/7701203/
+Dholpur | http://sws.geonames.org/7701204/
+Dungarpur | http://sws.geonames.org/1272203/
+Ganganagar | http://sws.geonames.org/1271686/
+Hanumangarh | http://sws.geonames.org/7729742/
+Jaipur district | http://sws.geonames.org/1269519/
+Jaisalmer | http://sws.geonames.org/1269508/
+Jalore District | http://sws.geonames.org/1269393/
+Jhalawar | http://sws.geonames.org/1269028/
+Jhunjhunu district | http://sws.geonames.org/1268937/
+Jodhpur | http://sws.geonames.org/1268867/
+Karauli | http://sws.geonames.org/7701209/
+Kota | http://sws.geonames.org/1266054/
+Nagaur | http://sws.geonames.org/1262217/
+Pratapgarh District | http://sws.geonames.org/8224619/
+Pāli | http://sws.geonames.org/1260724/
+Rajsamand | http://sws.geonames.org/7701213/
+Sawai Madhopur | http://sws.geonames.org/1256950/
+Sikar | http://sws.geonames.org/1256321/
+Sirohi | http://sws.geonames.org/1256068/
+Tonk | http://sws.geonames.org/1254242/
+Udaipur | http://sws.geonames.org/1253989/

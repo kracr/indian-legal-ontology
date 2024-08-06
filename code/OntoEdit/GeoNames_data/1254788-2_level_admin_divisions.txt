@@ -1,0 +1,33 @@
+Adilabad | http://sws.geonames.org/1279345/
+Bhadradri Kothagudem district | http://sws.geonames.org/11875556/
+Bhupalapally | http://sws.geonames.org/11875554/
+Hyderabad District | http://sws.geonames.org/1269844/
+Jagitial | http://sws.geonames.org/11875557/
+Jangoan | http://sws.geonames.org/11875555/
+Jogulamba Gadwal | http://sws.geonames.org/11875553/
+Kamareddy | http://sws.geonames.org/11875552/
+Karimnagar | http://sws.geonames.org/1267756/
+Khammam | http://sws.geonames.org/1267077/
+Kumuram Bheem Asifabad | http://sws.geonames.org/11875577/
+Mahabubabad | http://sws.geonames.org/11875551/
+Mahbūbnagar District | http://sws.geonames.org/1264408/
+Mancherial | http://sws.geonames.org/11875550/
+Medak | http://sws.geonames.org/1263231/
+Medchal Malkajgiri | http://sws.geonames.org/11875548/
+Mulugu | http://sws.geonames.org/12572551/
+Nagarkurnool district | http://sws.geonames.org/11875547/
+Nalgonda District | http://sws.geonames.org/1262068/
+Narayanpet | http://sws.geonames.org/12572550/
+Nirmal | http://sws.geonames.org/11875558/
+Nizamabad District | http://sws.geonames.org/1261260/
+Peddapalli | http://sws.geonames.org/11875546/
+Rajanna Sircilla | http://sws.geonames.org/11875545/
+Ranga Reddy | http://sws.geonames.org/7626856/
+Sangareddy District | http://sws.geonames.org/11875544/
+Siddipet | http://sws.geonames.org/11875543/
+Suryapet | http://sws.geonames.org/11875541/
+Vikarabad | http://sws.geonames.org/11875542/
+Wanaparthy | http://sws.geonames.org/11875559/
+Warangal Rural | http://sws.geonames.org/1252949/
+Warangal Urban | http://sws.geonames.org/11875560/
+Yadadri Bhuvanagiri | http://sws.geonames.org/11875561/

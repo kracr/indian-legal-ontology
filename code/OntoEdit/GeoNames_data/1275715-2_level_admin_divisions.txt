@@ -1,0 +1,38 @@
+Araria | http://sws.geonames.org/7626569/
+Arwal | http://sws.geonames.org/9748038/
+Aurangabad | http://sws.geonames.org/1278150/
+Banka | http://sws.geonames.org/8858072/
+Begusarai | http://sws.geonames.org/1276610/
+Bhagalpur | http://sws.geonames.org/1276301/
+Bhojpur | http://sws.geonames.org/1275871/
+Buxar | http://sws.geonames.org/7627223/
+Darbhanga | http://sws.geonames.org/1273492/
+Gaya | http://sws.geonames.org/1271440/
+Gopalganj | http://sws.geonames.org/1270967/
+Jamui | http://sws.geonames.org/8858071/
+Jehanabad | http://sws.geonames.org/7627222/
+Kaimur (Bhabua) | http://sws.geonames.org/8740934/
+Katihar | http://sws.geonames.org/7627229/
+Khagaria | http://sws.geonames.org/7627231/
+Kishanganj | http://sws.geonames.org/7627233/
+Lakhisarai | http://sws.geonames.org/7627235/
+Madhepura | http://sws.geonames.org/7626568/
+Madhubani | http://sws.geonames.org/1264556/
+Munger District | http://sws.geonames.org/1262483/
+Muzaffarpur district | http://sws.geonames.org/1262331/
+Nalanda | http://sws.geonames.org/1262081/
+Nawada District | http://sws.geonames.org/1261632/
+Pashchim Champaran | http://sws.geonames.org/1260208/
+Patna | http://sws.geonames.org/1260091/
+Purba Champaran District | http://sws.geonames.org/1259186/
+Purnia | http://sws.geonames.org/1259168/
+Rohtas District | http://sws.geonames.org/1258074/
+Saharsa | http://sws.geonames.org/1257805/
+Samastipur | http://sws.geonames.org/1257552/
+Sheikhpura District | http://sws.geonames.org/7701609/
+Sheohar | http://sws.geonames.org/7627239/
+Siwan | http://sws.geonames.org/1255930/
+Supaul | http://sws.geonames.org/7626567/
+Sáran District | http://sws.geonames.org/1257248/
+Sītāmarhi District | http://sws.geonames.org/1255984/
+Vaishali | http://sws.geonames.org/1253533/

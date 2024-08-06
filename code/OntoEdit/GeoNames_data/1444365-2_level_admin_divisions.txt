@@ -1,0 +1,24 @@
+Bokaro district | http://sws.geonames.org/7701427/
+Chatra | http://sws.geonames.org/9747948/
+Deoghar | http://sws.geonames.org/9035761/
+Dhanbad | http://sws.geonames.org/1272980/
+Dumka District | http://sws.geonames.org/7627175/
+East Singhbhum District | http://sws.geonames.org/7701426/
+Garhwa | http://sws.geonames.org/7701605/
+Giridih | http://sws.geonames.org/1271176/
+Godda | http://sws.geonames.org/7627174/
+Gumla | http://sws.geonames.org/7701429/
+Hazaribagh | http://sws.geonames.org/1270165/
+Jamtara | http://sws.geonames.org/7627228/
+Khunti District | http://sws.geonames.org/9748003/
+Kodarma District | http://sws.geonames.org/9747958/
+Latehar | http://sws.geonames.org/7627176/
+Lohardaga | http://sws.geonames.org/7627177/
+Pakur | http://sws.geonames.org/7701604/
+Palāmau District | http://sws.geonames.org/1260783/
+Ramgarh District | http://sws.geonames.org/9748026/
+Ranchi | http://sws.geonames.org/1258527/
+Sahebganj | http://sws.geonames.org/7701603/
+Seraikella District | http://sws.geonames.org/7701601/
+Simdega | http://sws.geonames.org/7627173/
+West Singhbhum | http://sws.geonames.org/1256163/

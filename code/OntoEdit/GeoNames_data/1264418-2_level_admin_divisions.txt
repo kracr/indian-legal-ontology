@@ -1,0 +1,36 @@
+Ahmednagar | http://sws.geonames.org/7626534/
+Akola | http://sws.geonames.org/1279109/
+Amravati | http://sws.geonames.org/8131497/
+Aurangabad District | http://sws.geonames.org/8131498/
+Beed District | http://sws.geonames.org/1275540/
+Bhandara district | http://sws.geonames.org/1276192/
+Buldhana | http://sws.geonames.org/1275118/
+Chandrapur | http://sws.geonames.org/9747944/
+Dhule district | http://sws.geonames.org/1272692/
+Gadchiroli | http://sws.geonames.org/7626536/
+Gondia | http://sws.geonames.org/7626535/
+Hingoli District | http://sws.geonames.org/7626533/
+Jalgaon | http://sws.geonames.org/1269411/
+Jalna District | http://sws.geonames.org/7626532/
+Kolhapur | http://sws.geonames.org/1266287/
+Latur | http://sws.geonames.org/7626537/
+Mumbai | http://sws.geonames.org/9747998/
+Mumbai City District | http://sws.geonames.org/1270836/
+Nagpur | http://sws.geonames.org/8131500/
+Nanded district | http://sws.geonames.org/1261978/
+Nandurbar | http://sws.geonames.org/7626542/
+Nashik | http://sws.geonames.org/8131501/
+Osmanabad District | http://sws.geonames.org/1261013/
+Palghar | http://sws.geonames.org/11875536/
+Parbhani District | http://sws.geonames.org/1260342/
+Pune | http://sws.geonames.org/8133375/
+Raigad | http://sws.geonames.org/7626540/
+Ratnagiri District | http://sws.geonames.org/1258340/
+Sangli | http://sws.geonames.org/9747967/
+Satara | http://sws.geonames.org/8131502/
+Sindhudurg district | http://sws.geonames.org/7626539/
+Solapur district | http://sws.geonames.org/1255847/
+Thane District | http://sws.geonames.org/1254662/
+Wardha | http://sws.geonames.org/1252944/
+Washim | http://sws.geonames.org/7626531/
+Yavatmal | http://sws.geonames.org/1252771/

@@ -1,0 +1,11 @@
+East Garo Hills District | http://sws.geonames.org/1271512/
+East Jaintia Hills | http://sws.geonames.org/11875537/
+East Khasi Hills | http://sws.geonames.org/1266857/
+North Garo Hills | http://sws.geonames.org/11875538/
+Rh-Bhoi District | http://sws.geonames.org/7701507/
+South Garo Hills | http://sws.geonames.org/9748015/
+South West Garo Hills | http://sws.geonames.org/11875540/
+South West Khasi Hills | http://sws.geonames.org/11875539/
+West Garo Hills District | http://sws.geonames.org/8986228/
+West Jaintia Hills | http://sws.geonames.org/1269523/
+West Khasi Hills District | http://sws.geonames.org/7701511/

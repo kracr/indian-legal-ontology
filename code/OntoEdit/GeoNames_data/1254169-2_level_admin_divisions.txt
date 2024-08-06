@@ -1,0 +1,8 @@
+Dhalai | http://sws.geonames.org/9747971/
+Gomati | http://sws.geonames.org/11875562/
+Khowai | http://sws.geonames.org/11875565/
+North Tripura | http://sws.geonames.org/1261174/
+Sepahijala | http://sws.geonames.org/11875564/
+South Tripura District | http://sws.geonames.org/1255671/
+Unakoti | http://sws.geonames.org/11875563/
+West Tripura | http://sws.geonames.org/1252864/

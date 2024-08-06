@@ -1,0 +1,11 @@
+Dimapur | http://sws.geonames.org/9747972/
+Kiphire District | http://sws.geonames.org/9748005/
+Kohima | http://sws.geonames.org/1266367/
+Longleng | http://sws.geonames.org/9747979/
+Mokokchung District | http://sws.geonames.org/1262844/
+Mon | http://sws.geonames.org/1262825/
+Peren | http://sws.geonames.org/8335032/
+Phek | http://sws.geonames.org/1259785/
+Tuensang | http://sws.geonames.org/1254132/
+Wokha | http://sws.geonames.org/1252841/
+Zunheboto | http://sws.geonames.org/1252654/

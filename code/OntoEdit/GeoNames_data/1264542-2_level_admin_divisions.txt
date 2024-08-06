@@ -1,0 +1,52 @@
+Agar Malwa District | http://sws.geonames.org/11875535/
+Alirajpur | http://sws.geonames.org/9747929/
+Anuppur | http://sws.geonames.org/9747933/
+Ashoknagar District | http://sws.geonames.org/8740785/
+Barwani | http://sws.geonames.org/8740088/
+Betūl District | http://sws.geonames.org/1276391/
+Bhind | http://sws.geonames.org/1275927/
+Bhopal District | http://sws.geonames.org/1275842/
+Burhanpur | http://sws.geonames.org/8740089/
+Bālāghāt District | http://sws.geonames.org/1277662/
+Chhatarpur | http://sws.geonames.org/1274339/
+Chhindwara | http://sws.geonames.org/1274305/
+Damoh | http://sws.geonames.org/1273589/
+Datia | http://sws.geonames.org/1273404/
+Dewas | http://sws.geonames.org/1273067/
+Dhar | http://sws.geonames.org/1272895/
+Dindori | http://sws.geonames.org/7627178/
+Guna | http://sws.geonames.org/1270712/
+Gwalior District | http://sws.geonames.org/1270585/
+Harda | http://sws.geonames.org/8740099/
+Hoshangābād District | http://sws.geonames.org/1269940/
+Indore | http://sws.geonames.org/1269744/
+Jabalpur district | http://sws.geonames.org/1269634/
+Jhabua | http://sws.geonames.org/1269054/
+Katni | http://sws.geonames.org/8740806/
+Khandwa | http://sws.geonames.org/1272117/
+Khargone | http://sws.geonames.org/8739996/
+Mandla | http://sws.geonames.org/1263853/
+Mandsaur district | http://sws.geonames.org/1263835/
+Morena | http://sws.geonames.org/1262772/
+Narsinghpur | http://sws.geonames.org/1261755/
+Neemuch | http://sws.geonames.org/8739995/
+Niwari | http://sws.geonames.org/12572552/
+Panna | http://sws.geonames.org/1260455/
+Raisen | http://sws.geonames.org/1258953/
+Rajgarh | http://sws.geonames.org/1258878/
+Ratlam | http://sws.geonames.org/1258343/
+Rewa | http://sws.geonames.org/1258183/
+Sagar | http://sws.geonames.org/1257852/
+Satna | http://sws.geonames.org/1257023/
+Sehore | http://sws.geonames.org/1256914/
+Seoni | http://sws.geonames.org/1256827/
+Shahdol | http://sws.geonames.org/1256740/
+Sheopur | http://sws.geonames.org/7627240/
+Shivpuri | http://sws.geonames.org/1256452/
+Shājāpur District | http://sws.geonames.org/1256694/
+Sidhi | http://sws.geonames.org/1256370/
+Singrauli | http://sws.geonames.org/9748010/
+Tikamgarh | http://sws.geonames.org/1254535/
+Ujjain district | http://sws.geonames.org/1253915/
+Umaria District | http://sws.geonames.org/9072769/
+Vidisha | http://sws.geonames.org/1253201/

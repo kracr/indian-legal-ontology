@@ -1,0 +1,12 @@
+Bilaspur | http://sws.geonames.org/1275638/
+Chamba | http://sws.geonames.org/1274849/
+Hamirpur | http://sws.geonames.org/1270456/
+Kinnaur district | http://sws.geonames.org/1266519/
+Kullu | http://sws.geonames.org/1265710/
+Kāngra District | http://sws.geonames.org/1268085/
+Lahul and Spiti | http://sws.geonames.org/1265292/
+Mandi | http://sws.geonames.org/1263863/
+Shimla | http://sws.geonames.org/1256238/
+Sirmaur | http://sws.geonames.org/1256073/
+Solan | http://sws.geonames.org/1255851/
+Una | http://sws.geonames.org/7701379/

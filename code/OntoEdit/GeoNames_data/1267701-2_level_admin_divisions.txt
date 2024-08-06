@@ -1,0 +1,30 @@
+Bagalkot | http://sws.geonames.org/8224037/
+Ballari district | http://sws.geonames.org/1276510/
+Belagavi | http://sws.geonames.org/1276534/
+Bengaluru Rural | http://sws.geonames.org/1277332/
+Bengaluru Urban | http://sws.geonames.org/1277331/
+Bīdar District | http://sws.geonames.org/1275739/
+Chamarajanagar | http://sws.geonames.org/8224050/
+Chikballapur | http://sws.geonames.org/8224036/
+Chikmagalur district | http://sws.geonames.org/1274221/
+Chitradurga | http://sws.geonames.org/1274057/
+Dakshin Kannad | http://sws.geonames.org/1273664/
+Davanagere District | http://sws.geonames.org/7646984/
+Dharwad | http://sws.geonames.org/1272797/
+Gadag | http://sws.geonames.org/7909847/
+Hassan | http://sws.geonames.org/1270240/
+Haveri | http://sws.geonames.org/7909842/
+Kalaburagi | http://sws.geonames.org/1270753/
+Kanara North District | http://sws.geonames.org/1253630/
+Kodagu | http://sws.geonames.org/1266426/
+Kolar district | http://sws.geonames.org/1266306/
+Koppal | http://sws.geonames.org/7627234/
+Mandya | http://sws.geonames.org/1263815/
+Mysuru | http://sws.geonames.org/1262322/
+Raichur district | http://sws.geonames.org/1259013/
+Ramanagara District | http://sws.geonames.org/8224306/
+Shimoga District | http://sws.geonames.org/1256516/
+Tumkūr | http://sws.geonames.org/1254090/
+Udupi | http://sws.geonames.org/8224051/
+Vijayapura | http://sws.geonames.org/1275702/
+Yadgir district | http://sws.geonames.org/8224605/

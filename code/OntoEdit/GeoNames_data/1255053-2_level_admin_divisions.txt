@@ -1,0 +1,38 @@
+Ariyalur | http://sws.geonames.org/8199441/
+Chengalpattu district | http://sws.geonames.org/12212751/
+Chennai district | http://sws.geonames.org/7646145/
+Coimbatore district | http://sws.geonames.org/1273866/
+Cuddalore | http://sws.geonames.org/7646153/
+Dharmapuri | http://sws.geonames.org/1272848/
+Dindigul | http://sws.geonames.org/8223994/
+Erode | http://sws.geonames.org/8223995/
+Kallakurichi district | http://sws.geonames.org/12212752/
+Kanchipuram | http://sws.geonames.org/7646149/
+Kanniyakumari | http://sws.geonames.org/1268009/
+Karur | http://sws.geonames.org/8223996/
+Krishnagiri | http://sws.geonames.org/8223993/
+Madurai | http://sws.geonames.org/1264522/
+Mayiladuthurai district | http://sws.geonames.org/12212768/
+Nagapattinam | http://sws.geonames.org/7627073/
+Namakkal | http://sws.geonames.org/6640313/
+Perambalur | http://sws.geonames.org/7627071/
+Pudukkottai | http://sws.geonames.org/1259298/
+Ramanathapuram | http://sws.geonames.org/1258741/
+Ranipet district | http://sws.geonames.org/12212753/
+Salem | http://sws.geonames.org/1257630/
+Sivaganga | http://sws.geonames.org/7646154/
+Tenkasi district | http://sws.geonames.org/12212754/
+Thanjavur | http://sws.geonames.org/1254650/
+The Nilgiris | http://sws.geonames.org/1261391/
+Theni District | http://sws.geonames.org/7646155/
+Thiruvallur | http://sws.geonames.org/7627241/
+Thiruvarur District | http://sws.geonames.org/7646980/
+Tiruchirappalli | http://sws.geonames.org/1254389/
+Tirunelveli | http://sws.geonames.org/7874380/
+Tirupattur district | http://sws.geonames.org/12212767/
+Tiruppur district | http://sws.geonames.org/9748021/
+Tiruvannamalai District | http://sws.geonames.org/7646147/
+Tuticorin | http://sws.geonames.org/7627069/
+Vellore district | http://sws.geonames.org/7646146/
+Viluppuram District | http://sws.geonames.org/7646150/
+Virudhunagar | http://sws.geonames.org/7646157/

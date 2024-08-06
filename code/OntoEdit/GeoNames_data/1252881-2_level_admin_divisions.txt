@@ -1,0 +1,23 @@
+Alipurduar | http://sws.geonames.org/11875573/
+Bankura | http://sws.geonames.org/1277265/
+Bīrbhūm District | http://sws.geonames.org/1275525/
+Coochbehar | http://sws.geonames.org/1266437/
+Darjeeling | http://sws.geonames.org/1273468/
+Dinajpur Dakshin | http://sws.geonames.org/8299687/
+Dinajpur Uttar | http://sws.geonames.org/8335142/
+Hooghly | http://sws.geonames.org/1269911/
+Howrah | http://sws.geonames.org/1270397/
+Jalpaiguri | http://sws.geonames.org/1269389/
+Jhargram | http://sws.geonames.org/11875572/
+Kalimpong | http://sws.geonames.org/11875570/
+Kolkata | http://sws.geonames.org/1275005/
+Maldah | http://sws.geonames.org/1264122/
+Medinipur East | http://sws.geonames.org/8335139/
+Medinipur West | http://sws.geonames.org/8335137/
+Murshidabad District | http://sws.geonames.org/7627237/
+Nadia | http://sws.geonames.org/1262293/
+North 24 Parganas District | http://sws.geonames.org/8335144/
+Paschim Bardhaman | http://sws.geonames.org/11875580/
+Purba Bardhaman | http://sws.geonames.org/1277030/
+Purulia | http://sws.geonames.org/1259164/
+South 24 Paraganas | http://sws.geonames.org/8335041/

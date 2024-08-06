@@ -1,0 +1,22 @@
+Ambala | http://sws.geonames.org/1278861/
+Bhiwani District | http://sws.geonames.org/1275900/
+Charki Dadri | http://sws.geonames.org/11875534/
+Faridabad | http://sws.geonames.org/9148988/
+Fatehabad | http://sws.geonames.org/9159091/
+Gurgaon district | http://sws.geonames.org/1270644/
+Hisar | http://sws.geonames.org/1270023/
+Jhajjar | http://sws.geonames.org/9747981/
+Jind | http://sws.geonames.org/1268908/
+Kaithal | http://sws.geonames.org/9747983/
+Karnal | http://sws.geonames.org/1267709/
+Kurukshetra | http://sws.geonames.org/1265468/
+Mahendragarh | http://sws.geonames.org/1264396/
+Nuh | http://sws.geonames.org/9748016/
+Palwal District | http://sws.geonames.org/9747986/
+Panchkula | http://sws.geonames.org/8402825/
+Panipat District | http://sws.geonames.org/9747999/
+Rewari | http://sws.geonames.org/9157653/
+Rohtak District | http://sws.geonames.org/1258077/
+Sirsa | http://sws.geonames.org/1256056/
+Sonipat District | http://sws.geonames.org/1255745/
+Yamunanagar | http://sws.geonames.org/9748037/

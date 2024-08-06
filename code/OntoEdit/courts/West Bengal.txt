@@ -1,0 +1,20 @@
+Bankura 
+Birbhum 
+Cooch Behar 
+Darjeeling 
+East Bardhaman 
+East Medinipur 
+Hooghly 
+Howrah 
+Jalpaiguri 
+Kalimpong 
+Malda 
+Murshidabad 
+Nadia 
+North 24 Parganas 
+North Dinajpur 
+Purulia 
+South 24 Parganas 
+South Dinajpur 
+West Bardhaman 
+West Medinipur

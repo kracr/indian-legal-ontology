@@ -1,0 +1,30 @@
+Anugul | http://sws.geonames.org/8986057/
+Balangir | http://sws.geonames.org/1277644/
+Balasore District | http://sws.geonames.org/1277600/
+Bargarh | http://sws.geonames.org/8740091/
+Bhadrak | http://sws.geonames.org/7644924/
+Boudh | http://sws.geonames.org/8996923/
+Cuttack District | http://sws.geonames.org/1273781/
+Deogarh | http://sws.geonames.org/9747968/
+Dhenkanal | http://sws.geonames.org/1272781/
+Gajapati | http://sws.geonames.org/8533699/
+Ganjam | http://sws.geonames.org/1271622/
+Jagatsinghapur | http://sws.geonames.org/7644925/
+Jajapur | http://sws.geonames.org/9645384/
+Jharsuguda | http://sws.geonames.org/7627179/
+Kalahandi | http://sws.geonames.org/1268508/
+Kandhamal district | http://sws.geonames.org/7627181/
+Kendrapara District | http://sws.geonames.org/7644926/
+Kendujhar | http://sws.geonames.org/1267268/
+Khordha | http://sws.geonames.org/7644927/
+Koraput District | http://sws.geonames.org/1266129/
+Malkangiri | http://sws.geonames.org/7627182/
+Mayurbhanj | http://sws.geonames.org/1263245/
+Nabarangpur | http://sws.geonames.org/8908677/
+Nayagarh District | http://sws.geonames.org/8986741/
+Nuapada | http://sws.geonames.org/8533697/
+Puri | http://sws.geonames.org/7644928/
+Rayagada | http://sws.geonames.org/7627183/
+Sambalpur District | http://sws.geonames.org/1257544/
+Sonepur | http://sws.geonames.org/9748032/
+Sundargarh | http://sws.geonames.org/1255438/

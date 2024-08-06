@@ -1,0 +1,33 @@
+Baksa | http://sws.geonames.org/8985782/
+Barpeta | http://sws.geonames.org/7627074/
+Biswanath District | http://sws.geonames.org/11875508/
+Bongaigaon | http://sws.geonames.org/7627076/
+Cachar | http://sws.geonames.org/1275009/
+Charaideo District | http://sws.geonames.org/11875512/
+Chirang | http://sws.geonames.org/8805933/
+Darrang district | http://sws.geonames.org/1273451/
+Dhemaji | http://sws.geonames.org/7627077/
+Dhubri | http://sws.geonames.org/7627078/
+Dibrugarh | http://sws.geonames.org/1272649/
+Dima Hasao | http://sws.geonames.org/1261192/
+Goalpara | http://sws.geonames.org/1271152/
+Golaghat | http://sws.geonames.org/7627079/
+Hailakandi | http://sws.geonames.org/7627080/
+Hojai | http://sws.geonames.org/11875513/
+Jorhat | http://sws.geonames.org/7627081/
+Kamrup District | http://sws.geonames.org/1268209/
+Kamrup Metropolitan District | http://sws.geonames.org/9747984/
+Karbi Anglong district | http://sws.geonames.org/1267812/
+Karimganj district | http://sws.geonames.org/7627082/
+Kokrajhar | http://sws.geonames.org/7627083/
+Lakhimpur district | http://sws.geonames.org/1265243/
+Majuli | http://sws.geonames.org/11875578/
+Marigaon | http://sws.geonames.org/8805932/
+Nagaon | http://sws.geonames.org/8849144/
+Nalbari | http://sws.geonames.org/7627084/
+Sivasagar | http://sws.geonames.org/1256389/
+Sonitpur | http://sws.geonames.org/8739997/
+South Salmara Mancachar | http://sws.geonames.org/11875515/
+Tinsukia | http://sws.geonames.org/7627085/
+Udalguri | http://sws.geonames.org/8805934/
+West Karbi Anglong | http://sws.geonames.org/11875514/

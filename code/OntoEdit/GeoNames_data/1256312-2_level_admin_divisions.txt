@@ -1,0 +1,4 @@
+East District | http://sws.geonames.org/1272129/
+North District | http://sws.geonames.org/1261190/
+South District | http://sws.geonames.org/1255681/
+West Sikkim | http://sws.geonames.org/1252877/
