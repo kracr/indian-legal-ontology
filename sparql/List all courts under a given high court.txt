@@ -1,0 +1,22 @@
+# List all courts under a given high court.
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex: <http://lmss.sali.org/>
+
+SELECT ?courtLabel
+WHERE {
+  # Identify the property 'hasPrecedenceOver' by its label
+  ?hasPrecedenceOverProperty rdfs:label "hasPrecedenceOver" .
+  
+  # Identify the high court
+  ?highCourt rdfs:label "Allahabad High Court" .
+  ?highCourt rdf:type ?highCourtType .
+  ?highCourtType rdfs:label "High Court" .
+
+  # Find courts linked by 'hasPrecedenceOver' property
+  ?highCourt ?hasPrecedenceOverProperty ?court .
+  
+  # Get the label of the linked courts
+  ?court rdfs:label ?courtLabel .
+}

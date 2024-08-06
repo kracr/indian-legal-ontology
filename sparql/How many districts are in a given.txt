@@ -1,0 +1,18 @@
+# How many districts are in a given state of India?
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex: <http://lmss.sali.org/>
+PREFIX schema: <http://schema.org/>
+
+SELECT ?stateLabel (COUNT(DISTINCT ?district) AS ?districtCount)
+WHERE {
+  # Replace "State Name" below with the name of the state you are querying
+  ?state rdfs:label "Delhi" .
+  ?state rdf:type ?stateType .
+  ?stateType rdfs:label "State and Union Territory" .
+  ?state schema:containsPlace ?district .
+  ?district rdf:type ?districtType .
+  ?districtType rdfs:label "District" .
+}
+GROUP BY ?stateLabel

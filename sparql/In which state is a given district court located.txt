@@ -1,0 +1,25 @@
+# In which state is a given district court instance located?
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex: <http://lmss.sali.org/>
+PREFIX geoNames: <http://www.geonames.org/ontology#>
+PREFIX schema: <http://schema.org/>
+
+SELECT DISTINCT ?stateLabel
+WHERE {
+  # Approximate string matching for district court
+  ?districtCourt rdfs:label ?courtLabel .
+  ?districtCourt rdf:type ?districtCourtType .
+  ?districtCourtType rdfs:label "District Court" .
+  
+  # Find the location of the district court
+  ?districtCourt geoNames:locatedIn ?district .
+  
+  # Find the state that contains the district
+  ?state schema:containsPlace ?district .
+  ?state rdfs:label ?stateLabel .
+  
+  # Replace "Faridabad District Court" with the given district court name
+  FILTER (regex(?courtLabel, "Prakasam District Court", "i"))
+}
