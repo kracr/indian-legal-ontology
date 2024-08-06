@@ -13,4 +13,6 @@ The MyOntology class is the main library which can be used for any ontology buil
 -	add label and annotation property
 
 The GeoNames data has been queried and stored in text files.
+
+Execution:
 BatchUpdateFinal_paper.java takes the base ontology and outputs the extended version.
